@@ -1,0 +1,12 @@
+table, th, td {
+	text-align: center;
+}
+div.box {
+	border: 1px solid black;
+	overflow: auto;
+	height: 120px;
+}
+div.alert {
+	margin-top: -20px;
+	text-align: center;
+}
